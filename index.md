@@ -8,10 +8,10 @@ Welcome to the official command reference for your bot. Click a category below t
 
 | **Command** | **Description** | **Usage** |
 |------------|-----------------|-----------|
-| ?help    | Get information about Dyno or a command. Responds in DM if no argument is given. | ?help (command) |
+| ?help    | Get information about GHOST or a command. Responds in DM if no argument is given. | ?help (command) |
 | ?info    | Get information about the bot. | ?info |
 | ?ping    | Ping the bot and get the response time in milliseconds. | ?ping |
-| ?premium | Get information about Dyno Premium. Responds in DM. | ?premium |
+| ?premium | Get information about GHOST Premium. Responds in DM. | ?premium |
 | ?stats   | Get some statistics about the bot. | ?stats |
 | ?uptime  | Get the bot uptime. | ?uptime |
 
