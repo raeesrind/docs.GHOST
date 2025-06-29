@@ -51,3 +51,20 @@ Welcome to the official command reference for your bot. Click a category below t
 | ?warn | Issue a warning to a member and log it. | ?warn [user] [reason] |
 
 ---
+
+
+# 📈 Leveling
+
+| **Command** | **Description** | **Usage** |
+|------------|-----------------|-----------|
+| ?rank | Show your XP, level, and rank card. | ?rank |
+| ?leaderboard | View the top users in the XP system. | ?leaderboard |
+| ?addlevelrole | Assign a role to be given at a specific level. | ?addlevelrole @role [level] |
+| ?removelevelrole | Remove the role assigned to a level. | ?removelevelrole [level] |
+| ?listlevelroles | List all level-based role rewards. | ?listlevelroles |
+| ?enableleveling | Enable the leveling system for your server. | ?enableleveling |
+| ?setrolemode | Set role reward behavior (`highest` or `all`). | ?setrolemode [highest/all] |
+| ?rankupnotifications | Control how users are notified on level up. | ?rankupnotifications [dm/channel/custom/none] (channel) |
+| ?channelxpmultiplier | Set a channel-specific XP multiplier. | ?channelxpmultiplier #channel [multiplier] |
+| ?rolexpmultiplier | Set a role-based XP multiplier. | ?rolexpmultiplier @role [multiplier] |
+| ?noxpchannel | Disable XP gain in a specific channel. | ?noxpchannel #channel |
